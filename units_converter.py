@@ -8,3 +8,5 @@ Minute = Hour1 // 60
 Second = Hour1 % 60
 
 print(Hour, "Hour", Minute, "Minutes", Second, "Seconds")
+
+#I want to make Git cry, not me 
